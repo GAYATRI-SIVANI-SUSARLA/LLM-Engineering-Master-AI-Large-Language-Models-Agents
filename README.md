@@ -1,1 +1,3 @@
 # LLM_Engineering--MasterAI
+## My journey to become an LLM Engineer begins...
+[!image](https://github.com/GAYATRI-SIVANI-SUSARLA/LLM_Engineering--MasterAI/blob/main/voyage.jpg)
